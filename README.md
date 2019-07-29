@@ -8,3 +8,9 @@ July 27:
 - Lecture: `1.Functions`, `2.Names`, `3.Control`
 - Lab: `Lab 00`
 - Homework: `HW 01`
+
+July 28:
+- Textbook: `Ch 1.6`
+- Lecture: `4.Higher-Order Functions`, `5.Environments`
+- Lab: `Lab 01`
+- Discussion: `Disc 01`
