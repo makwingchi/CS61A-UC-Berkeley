@@ -14,3 +14,9 @@ July 28:
 - Lecture: `4.Higher-Order Functions`, `5.Environments`
 - Lab: `Lab 01`
 - Discussion: `Disc 01`
+
+July 29:
+- Lecture: `6.Iteration`, `7.Recursion`
+- Project: `Hog`
+- Lab: `Lab 02`
+- Homework: `HW 02`
