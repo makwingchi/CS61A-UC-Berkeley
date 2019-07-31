@@ -20,3 +20,10 @@ July 29:
 - Project: `Hog`
 - Lab: `Lab 02`
 - Homework: `HW 02`
+
+July 30:
+- Lecture: `8.Function Examples`
+- Textbook: `Ch 1.7`
+- Discussion: `Disc 02`
+- Homework: `HW 03`
+- Exam Prep: `Exam Prep 01`
