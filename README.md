@@ -27,3 +27,7 @@ July 30:
 - Discussion: `Disc 02`
 - Homework: `HW 03`
 - Exam Prep: `Exam Prep 01`
+
+July 31:
+- Lecture: `9.Tree Recursion`, `10.Data Abstraction`
+- Discussion: `Disc 03`
