@@ -31,3 +31,8 @@ July 30:
 July 31:
 - Lecture: `9.Tree Recursion`, `10.Data Abstraction`
 - Discussion: `Disc 03`
+
+August 2:
+- Lecture: `11.Container`
+- Textbook: `Ch 2.1`, `Ch 2.2`
+- Exam Prep: `Exam Prep 02`
