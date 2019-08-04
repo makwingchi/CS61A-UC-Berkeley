@@ -39,7 +39,7 @@ August 2:
 
 August 3:
 - Lecture: `12.Trees`, `13.Mutable Values`
-- Textbook: `Ch 2.3``
+- Textbook: `Ch 2.3`
 - Homework: `HW 04`
 - Discussion: `Disc 04`
 - Lab: `Lab 04`
