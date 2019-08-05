@@ -43,3 +43,9 @@ August 3:
 - Homework: `HW 04`
 - Discussion: `Disc 04`
 - Lab: `Lab 04`
+
+August 4:
+- Lecture: `14.Mutable Functions`
+- Textbook: `Ch 2.4 (- 2.4.6)`
+- Exam Prep: `Exam Prep 03`
+- Project: `Maps`
