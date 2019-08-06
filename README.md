@@ -49,3 +49,8 @@ August 4:
 - Textbook: `Ch 2.4 (- 2.4.6)`
 - Exam Prep: `Exam Prep 03`
 - Project: `Maps`
+
+August 5:
+- Lecture: `15.Iterators`, `16.Objects`
+- Textbook: `Ch 2.4 (- 2.4.10)`, `Ch 2.5 (- 2.5.4)`
+- Lab: `Lab 05`
