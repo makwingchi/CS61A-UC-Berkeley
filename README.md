@@ -46,11 +46,17 @@ August 3:
 
 August 4:
 - Lecture: `14.Mutable Functions`
-- Textbook: `Ch 2.4 (- 2.4.6)`
+- Textbook: `Ch 2.4 (-2.4.6)`
 - Exam Prep: `Exam Prep 03`
 - Project: `Maps`
 
 August 5:
 - Lecture: `15.Iterators`, `16.Objects`
-- Textbook: `Ch 2.4 (- 2.4.10)`, `Ch 2.5 (- 2.5.4)`
+- Textbook: `Ch 2.4 (-2.4.10)`, `Ch 2.5 (-2.5.4)`
 - Lab: `Lab 05`
+
+August 6:
+- Lecture: `17.Inheritance`
+- Textbook: `Ch 2.5 (2.5.5-)`
+- Homework: `HW 05`
+- Discussion: `Disc 05`
