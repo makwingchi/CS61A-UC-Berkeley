@@ -60,3 +60,7 @@ August 6:
 - Textbook: `Ch 2.5 (2.5.5-)`
 - Homework: `HW 05`
 - Discussion: `Disc 05`
+
+August 8:
+- Lecture: `18.Representation`
+- Lab: `Lab 06`
