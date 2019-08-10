@@ -64,3 +64,9 @@ August 6:
 August 8:
 - Lecture: `18.Representation`
 - Lab: `Lab 06`
+
+August 9:
+- Lecture: `19. Growth`
+- Textbook: `Ch 2.7`
+- Homework: `HW 06`
+- Discussion: `Disc 06`
