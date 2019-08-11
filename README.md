@@ -66,7 +66,12 @@ August 8:
 - Lab: `Lab 06`
 
 August 9:
-- Lecture: `19. Growth`
+- Lecture: `19.Growth`
 - Textbook: `Ch 2.7`
 - Homework: `HW 06`
 - Discussion: `Disc 06`
+
+August 10:
+- Lecture: `20.Composition`
+- Textbook: `Ch 2.8`, `Ch 2.9 (-2.9.2)`
+- Project: `Ants`
