@@ -75,3 +75,9 @@ August 10:
 - Lecture: `20.Composition`
 - Textbook: `Ch 2.8`, `Ch 2.9 (-2.9.2)`
 - Project: `Ants`
+
+August 11:
+- Lecture: `21.Ordered Sets`, `22.Tree Sets`
+- Textbook: `Ch 2.9 (2.9.3)`
+- Lab: `Lab 07`
+- Discussion: `Disc 07`
