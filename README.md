@@ -81,3 +81,7 @@ August 11:
 - Textbook: `Ch 2.9 (2.9.3)`
 - Lab: `Lab 07`
 - Discussion: `Disc 07`
+
+August 12:
+- Lecture: `23.Data Examples`, `24.Users`
+- Lab: `Lab 08`
