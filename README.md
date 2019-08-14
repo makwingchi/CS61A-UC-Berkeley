@@ -85,3 +85,6 @@ August 11:
 August 12:
 - Lecture: `23.Data Examples`, `24.Users`
 - Lab: `Lab 08`
+
+August 13:
+- Lecture: `26.Exceptions`, `32.Declarative Programming`
