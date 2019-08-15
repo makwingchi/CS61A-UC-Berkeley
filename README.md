@@ -88,3 +88,6 @@ August 12:
 
 August 13:
 - Lecture: `26.Exceptions`, `32.Declarative Programming`
+
+August 14:
+- Lecture: `33.Tables`, `34.Aggregation`, `35.Databases`, `37.Final Examples`
