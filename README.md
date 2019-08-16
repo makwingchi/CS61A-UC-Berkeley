@@ -91,3 +91,9 @@ August 13:
 
 August 14:
 - Lecture: `33.Tables`, `34.Aggregation`, `35.Databases`, `37.Final Examples`
+
+August 15:
+- Textbook: `Ch 3.3`, `Ch 4.3`
+- Lab: `Lab 12`
+- Discussion: `Disc 11`
+- Homework: `HW 11`
