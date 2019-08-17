@@ -97,3 +97,6 @@ August 15:
 - Lab: `Lab 12`
 - Discussion: `Disc 11`
 - Homework: `HW 11`
+
+August 16:
+- Lab: `Lab 13`
